@@ -1,0 +1,11 @@
+# competition data and predictions are not published
+/data/
+/submissions/
+/*.csv
+*.zip
+
+# environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
